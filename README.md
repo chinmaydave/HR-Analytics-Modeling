@@ -110,16 +110,4 @@ pip install scikit-learn xgboost pandas matplotlib numpy seaborn
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📧 Contact
-
-For questions or collaboration opportunities, please reach out via [your-email@example.com].
-
----
-
-**Built with ❤️ for data-driven HR solutions**
+This project uses a open source kaggle dataset.
